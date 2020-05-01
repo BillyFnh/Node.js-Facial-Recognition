@@ -1,2 +1,2 @@
-# node-face-recognition
-A quick implementation of face recognition with FaceAPI
+# nodejs-face-api-test
+
