@@ -1,4 +1,4 @@
-# nodejs-face-api-test
+# Real Time Facial Recognition (browser based)
 
 This is a Node.JS application of a real time face recognition algorithm using FaceAPI.
 
